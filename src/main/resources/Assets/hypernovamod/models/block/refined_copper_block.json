@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "hypernovamod:block/refined_copper_block"
+  }
+}
